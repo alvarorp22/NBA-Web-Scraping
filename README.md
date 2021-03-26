@@ -5,3 +5,7 @@ The code and the CSV file are inside the NBA Stats 20-21 folder.
 As a last nuance I would like to say that, as you could see if you look the .ipynb folder, my code is written in Spanish.
 
 I'm a begginer with BeautifulSoup and Selenium libraries and I'm not a professional with Python because I started to learn this programming language last summer, so If someone see something that could be better readable and more efficient, I will be very thankful to know it!!
+
+
+# DOI
+[![DOI](https://zenodo.org/badge/351080238.svg)](https://zenodo.org/badge/latestdoi/351080238)
